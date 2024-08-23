@@ -3,7 +3,7 @@
 Sou Aceff Ramos, desenvolvedor front end & back-end e desenvolvedor full stack.
 Estou aprendendo, html, css, javascript e react.
 
-<a href="www.linkedin.com/in/aceff-ramos-74b746304"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a>
+<a href="www.linkedin.com/in/aceff-ramos-74b746304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a>
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo"/>
